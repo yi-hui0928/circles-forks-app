@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/circles-forks-app/static/css/main.06ff391b.css",
+    "main.js": "/circles-forks-app/static/js/main.cd769288.js",
+    "static/js/453.b75aba25.chunk.js": "/circles-forks-app/static/js/453.b75aba25.chunk.js",
+    "static/media/fish_shark_svg.svg": "/circles-forks-app/static/media/fish_shark_svg.47b75b883605edd8f6ff1ccecaa4b6ff.svg",
+    "static/media/animal_ashika_svg.svg": "/circles-forks-app/static/media/animal_ashika_svg.81f5b373394885e60ce239ffb514c601.svg",
+    "index.html": "/circles-forks-app/index.html",
+    "main.06ff391b.css.map": "/circles-forks-app/static/css/main.06ff391b.css.map",
+    "main.cd769288.js.map": "/circles-forks-app/static/js/main.cd769288.js.map",
+    "453.b75aba25.chunk.js.map": "/circles-forks-app/static/js/453.b75aba25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06ff391b.css",
+    "static/js/main.cd769288.js"
+  ]
+}
